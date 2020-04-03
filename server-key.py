@@ -3,7 +3,7 @@ import time
 import keyboard
 
 #Change to FPGA IP address
-UDP_IP = "10.42.0.63"
+UDP_IP = "192.168.1.10"
 PORT = 9090
 BUFFER_SIZE = 16
 
